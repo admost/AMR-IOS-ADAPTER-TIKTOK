@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterTiktok-Beta'
-  s.version          = '4.3.0.5'
+  s.version          = '4.3.1.9'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
                             Copyright 2016
                             Admost Mediation Limited.
@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
   s.platform      = :ios
   s.ios.deployment_target = '9.0'
   s.vendored_frameworks = 'AMRAdapterTiktok/Libs/AMRAdapterTiktok.xcframework'
-  s.dependency 'AMRSDK-Beta', '~> 1.5.7'
-  s.dependency 'Ads-Global', '4.3.0.5'
+  s.dependency 'AMRSDK-Beta', '~> 1.5.11'
+  s.dependency 'Ads-Global', '4.3.1.9'
   s.xcconfig = {
     "VALID_ARCHS": "armv7 armv7s x86_64 arm64"
   }
