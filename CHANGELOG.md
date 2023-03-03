@@ -3,6 +3,10 @@
 Changelog for AMRAdapterTiktok. 
 Ads-Global [changelog](https://developers.tiktok.com/doc/getting-started-ios-download-and-changelog)
 
+## [5.0.0.8] - 2023-03-03
+### Updated
+- Offical release for Ads-Global 5.0.0.8
+
 ## [5.0.0.7] - 2023-03-03
 ### Updated
 - Offical release for Ads-Global 5.0.0.7
