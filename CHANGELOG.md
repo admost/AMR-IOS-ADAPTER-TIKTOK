@@ -6,6 +6,7 @@ Ads-Global [changelog](https://developers.tiktok.com/doc/getting-started-ios-dow
 ## [4.9.1.2] - 2023-03-14
 ### Updated
 - Downgrade to 4.9.1.1 bc ADS-Global crashes.
+- App Open added.
 
 ## [5.0.0.8] - 2023-03-03
 ### Updated
