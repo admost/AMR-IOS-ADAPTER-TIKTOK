@@ -16,5 +16,7 @@ Pod::Spec.new do |s|
  								}
   s.documentation_url = 'https://admost.github.io/amrios/'
   s.platform 			= :ios
+  s.ios.deployment_target = '11.0'
+  s.swift_versions = ['5']
   s.dependency 'AMRAdapterPangle', '5.8.0.8'
 end
